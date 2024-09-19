@@ -79,6 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Author
 
-Created by **rgc**  
+Created by **crg**  
 Email: [rgcsekaraa@gmail.com](mailto:rgcsekaraa@gmail.com)  
 Website: [sekaraa.com](https://sekaraa.com)

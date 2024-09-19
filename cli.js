@@ -19,9 +19,9 @@ program
   )
   .option(
     '-i, --ignore <folders>',
-    'Comma-separated list of folders to ignore (default: node_modules,.next,dist,build)',
+    'Comma-separated list of folders to ignore (default: node_modules,.next,dist,build,.git)',
     (value) => value.split(','),
-    ['node_modules', '.next', 'dist', 'build']
+    ['node_modules', '.next', 'dist', 'build', '.git'] // Added .git here
   )
   .option(
     '-f, --format <format>',
