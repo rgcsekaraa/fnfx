@@ -11,7 +11,7 @@ program
   .description(
     'Generate a file tree structure for a directory and export in various formats'
   )
-  .version('1.0.0')
+  .version('1.0.4')
   .option(
     '-d, --dir <directory>',
     'Directory to generate the tree for (default: current working directory)',

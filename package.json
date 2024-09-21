@@ -1,10 +1,10 @@
 {
   "name": "fnfx",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A CLI tool for generating files and folders tree structures",
   "main": "cli.js",
   "bin": {
-    "fnfx": "./cli.js"
+    "fnfx": "cli.js"
   },
   "author": {
     "name": "crg",
